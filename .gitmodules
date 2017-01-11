@@ -1,0 +1,3 @@
+[submodule "VanillaGuide"]
+	path = VanillaGuide
+	url = https://github.com/rsheep/VanillaGuide
