@@ -1,6 +1,6 @@
 Levelings addons
 ============
-1.Copy the folders into your Interface/Addons folder. Not the whole project.
+1. Copy the folders into your Interface/Addons folder. Not the whole project.
 
 2. Enable MetaMap support in VanillaGuide once in game.
 
